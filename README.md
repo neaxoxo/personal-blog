@@ -1,4 +1,4 @@
-# Key UI - Personal Blog System
+# Personal Blog System
 
 Link Website: personal-blog.infinityfree.me
 
