@@ -1,7 +1,5 @@
 # Personal Blog System
 
-Link Website: personal-blog.infinityfree.me
-
 **Key UI** adalah sebuah sistem manajemen konten (CMS) blog sederhana namun powerful yang dibangun menggunakan **PHP Native** dan **MySQL**. Proyek ini difokuskan pada desain yang bersih, struktur kode yang modular, dan kemudahan penggunaan.
 
 Tampilan antarmuka didesain modern menggunakan **Tailwind CSS** dengan gaya tipografi *Editorial/News*.
